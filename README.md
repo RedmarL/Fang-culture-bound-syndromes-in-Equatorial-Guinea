@@ -1,4 +1,5 @@
-# EQG-Visual-Essay
+# Fang culture-bound syndromes
+in Equatorial Guinea and their Western equivalents
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
