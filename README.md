@@ -49,7 +49,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: Laplantine F. CapõÂtulo I. Modelo ontoloÂgico y modelo relacional (o funcional). In: AntropologõÂa de la
-enfermedad: estudio etnoloÂgico de los sistemas de representaciones etioloÂgicas y terapeÂuticas en la
-sociedad occidental contemporaÂnea. Buenos Aires: Ediciones del Sol; 1999. p. 57±78.
+[^1]: Laplantine, F. (1999). Capítulo I: Modelo ontológico y modelo relacional (o funcional). In Antropologia de la Enfermedad: Estudio Etnologico de los Sistemas de Representaciones Etiologicas y Terapeuticas en la Sociedad Occidental Contemporanea. Del Sol.
 
