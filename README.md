@@ -3,7 +3,7 @@
 <param ve-config 
        title="Fang culture-bound syndromes in Equatorial Guinea and their Western equivalents"
        author="Redmar Leeuwendal"
-       banner="[https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg](https://2017-2021.state.gov/wp-content/uploads/2018/11/Equatorial-Guinea-2560x1118.jpg)" 
+       banner="https://2017-2021.state.gov/wp-content/uploads/2018/11/Equatorial-Guinea-2560x1118.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
