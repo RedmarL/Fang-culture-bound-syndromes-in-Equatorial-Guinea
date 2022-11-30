@@ -49,5 +49,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: Laplantine, F. (1999). Capítulo I: Modelo ontológico y modelo relacional (o funcional). In Antropologia de la Enfermedad: Estudio Etnologico de los Sistemas de Representaciones Etiologicas y Terapeuticas en la Sociedad Occidental Contemporanea. Del Sol.
+[^1]: Laplantine, F. (1999). Capítulo I: Modelo ontológico y modelo relacional (o funcional). In <i> Antropologia de la Enfermedad: Estudio Etnologico de los Sistemas de Representaciones Etiologicas y Terapeuticas en la Sociedad Occidental Contemporanea.</i> Del Sol.
 
