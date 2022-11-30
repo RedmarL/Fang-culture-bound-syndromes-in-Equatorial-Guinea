@@ -49,4 +49,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: Laplantine F. CapõÂtulo I. Modelo ontoloÂgico y modelo relacional (o funcional). In: AntropologõÂa de la
+enfermedad: estudio etnoloÂgico de los sistemas de representaciones etioloÂgicas y terapeÂuticas en la
+sociedad occidental contemporaÂnea. Buenos Aires: Ediciones del Sol; 1999. p. 57±78.
+
