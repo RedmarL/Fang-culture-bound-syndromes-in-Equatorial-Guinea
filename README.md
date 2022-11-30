@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Fang culture-bound syndromes in Equatorial Guinea and their Western equivalents"
+       title="Culture-bound syndromes in Fang culture"
        author="Redmar Leeuwendal"
        banner="https://2017-2021.state.gov/wp-content/uploads/2018/11/Equatorial-Guinea-2560x1118.jpg" 
        layout="vertical">
